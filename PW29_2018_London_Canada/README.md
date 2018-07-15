@@ -65,7 +65,7 @@ Please fork and add your project page, then make a pull request. You can start f
 
 ### Core infrastructure
 
-+ [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
++ [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, @jcfr)
 
 ### (TBD) ###
 + 
